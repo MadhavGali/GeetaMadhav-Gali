@@ -168,7 +168,11 @@ section h2 {
   .ml-lg-1, .mx-lg-1 {
     margin-left: .01rem!important;
     margin-right: .01rem!important;
-    }
+   }
+  .pl-lg-4, .px-lg-4 {
+    padding-left: 0.7rem!important;
+    padding-right: 0.7rem!important;
+   }
 }
 
 header.masthead {
@@ -447,4 +451,9 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #1a252f;
   border-color: #1a252f;
+}
+@media (min-width: 1200px){
+.container {
+    max-width: 1200px;
+    }
 }
