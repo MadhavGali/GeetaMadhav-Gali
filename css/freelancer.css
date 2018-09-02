@@ -219,6 +219,64 @@ header.masthead h2 {
   -moz-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
+  background-color: #ED7F26;
+}
+.portfolio .portfolio-item .portfolio-item-caption2 {
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+  transition: all ease 0.5s;
+  opacity: 0;
+  background-color: #AC86C4;
+}
+.portfolio .portfolio-item .portfolio-item-caption3 {
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+  transition: all ease 0.5s;
+  opacity: 0;
+  background-color: #E64D2E;
+}
+.portfolio .portfolio-item .portfolio-item-caption4 {
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+  transition: all ease 0.5s;
+  opacity: 0;
+  background-color: #EDA13D;
+}
+.portfolio .portfolio-item .portfolio-item-caption5 {
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+  transition: all ease 0.5s;
+  opacity: 0;
+  background-color: #9AC944;
+}
+.portfolio .portfolio-item .portfolio-item-caption6 {
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+  transition: all ease 0.5s;
+  opacity: 0;
+  background-color: #E64D2E;
+}
+.portfolio .portfolio-item .portfolio-item-caption1 {
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+  transition: all ease 0.5s;
+  opacity: 0;
+  background-color:  #4674C4;
+}
+.portfolio .portfolio-item .portfolio-item-caption1 {
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+  transition: all ease 0.5s;
+  opacity: 0;
+  background-color:#F5B237;
+}
+
+#F8CCA8
+.portfolio .portfolio-item .portfolio-item-caption1 {
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+  transition: all ease 0.5s;
+  opacity: 0;
   background-color: rgba(24,188,156,.9);
 }
 
