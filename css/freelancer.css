@@ -394,7 +394,7 @@ a:focus, a:hover, a:active {
     }
 }
 .roundedImage{
-	height:300px;
-	width:250px;
+	height:200px;
+	width:200px;
 	border-radius: 50%;
 }
